@@ -1,4 +1,6 @@
-# Stable-Dreamfusion
+# Latent-Stable-Dreamfusion
+
+> A variant of the amazing repo by ashawkey, operating in latent space
 
 A pytorch implementation of the text-to-3D model **Dreamfusion**, powered by the [Stable Diffusion](https://github.com/CompVis/stable-diffusion) text-to-2D model.
 
